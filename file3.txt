@@ -1,3 +1,7 @@
 this is the third file
 it will also have 3 lines of text 
 this is being added for a new branch, a new feature I'm working on
+
+hopefully im not messing up your files
+poppe in to say hi
+.....hi!
