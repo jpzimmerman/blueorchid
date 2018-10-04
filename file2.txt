@@ -1,0 +1,3 @@
+this is the second file
+it is different from the first file
+this file's contents will probably be more interesting
